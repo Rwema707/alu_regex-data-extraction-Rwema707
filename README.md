@@ -10,7 +10,7 @@ A Python script that extracts structured data (emails, phone numbers, URLs, date
 
 python extractor.py
 
-Implementing five Data Types
+Implementing five Data Types:
 Email
 Phone Number
 URL
