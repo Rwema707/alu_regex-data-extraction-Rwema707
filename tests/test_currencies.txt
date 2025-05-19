@@ -1,0 +1,5 @@
+$1,000.00
+€999.99
+£75
+1000 dollars
+5,00€  (European style with comma as decimal)

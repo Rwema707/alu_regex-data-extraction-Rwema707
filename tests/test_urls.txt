@@ -1,0 +1,6 @@
+https://example.com
+http://sub.domain.co.uk
+www.nosite.com
+justtext.com
+ftp://badprotocol.com
+
