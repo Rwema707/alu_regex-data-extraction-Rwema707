@@ -1,0 +1,19 @@
+Hey John,
+
+Hope you're doing well! Just wanted to confirm a few details with you.
+
+Please send the final invoice to my personal email: jane.doe1990@gmail.com and CC my work email at jane@company.co.uk. Also, my backup is j.d@alt-mail.net in case either of those fail.
+
+The client called me earlier today from +1 (415) 555-2671. I also noted another number for him: 415.555.8920 and one that's just 555-0023 — not sure if it’s valid.
+
+We need to review the website https://example-project.dev by next Friday. Also check their subdomain: http://research.example-project.dev/tools. Surprisingly, www.oldsite.com still loads, although it's outdated.
+
+She mentioned that the contract begins on 2025-06-15, but the kickoff meeting is on June 20th, 2025. There's also a weird entry in their form: 15/06/2025 and another one that just says 06/15/25.
+
+Payment details: The initial deposit is $3,000.00. Some partners request payments in euros (€2.500,00) or British pounds (£2,750). I also saw an outdated invoice that just said 1500 dollars.
+
+Let me know if you need anything else!
+
+Best,
+Alex
+
